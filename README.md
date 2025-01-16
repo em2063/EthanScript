@@ -6,4 +6,5 @@ EthaScript is a programming language I'm developing as a side project while lear
 - Parsing: Transforming tokens into a syntax tree.
 - Runtime environment: Building an interpreter for executing code.
 - Error handling: Implementing clear and user-friendly error messages.
+
 The goal of this project is to deepen my understanding of programming languages and interpreters while creating a functional and extensible language from scratch. It serves as a learning journey and a foundation for potential future enhancements.
