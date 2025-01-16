@@ -1,6 +1,6 @@
-# EthaScript - A Programming Language Inspired by Crafting Interpreters
+# EthanScript - A Programming Language Inspired by Crafting Interpreters
 
-EthaScript is a programming language I'm developing as a side project while learning from the book Crafting Interpreters by Robert Nystrom. This project is an exploration of language design and implementation, covering concepts such as:
+EthanScript is a programming language I'm developing as a side project while learning from the book Crafting Interpreters by Robert Nystrom. This project is an exploration of language design and implementation, covering concepts such as:
 
 - Lexical analysis: Tokenizing source code into meaningful components.
 - Parsing: Transforming tokens into a syntax tree.
